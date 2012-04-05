@@ -1,0 +1,10 @@
+MD5-rfc1321.txt - contains the original text
+rfc1321.html - contains the css-styles html version
+
+I created the style for this by hand, and it's inline in the HTML. I made this
+because I didn't like reading the original, which, in my opinion looks really
+ugly, but you can compare for yourself.
+
+In the future the process of converting an RFC could probably be automated.
+
+This is licensed under GPLv3, or whatever license the original was under.
